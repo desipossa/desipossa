@@ -25,11 +25,15 @@ https://abluehope.github.io/
 <br/>
 <br/>
 
-# 아아두면 좋은 레이아웃 기초 
+# 알아두면 좋은 레이아웃 기초 
 
 https://desipossa.github.io/html_basic_/layout/  
 https://desipossa.github.io/html_basic_flex/  
 https://desipossa.github.io/html_basic_float/  
+
+
+<br/>
+<br/>
 
 # 2019 ~ 2022 UI/UX portfolio   
 UIUX 반응형 웹디자인&웹퍼블리셔 (디자인&코딩) 양성과정 수강생 PORTFOLIO   
